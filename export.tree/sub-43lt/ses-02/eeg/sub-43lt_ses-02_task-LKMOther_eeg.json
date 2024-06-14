@@ -1,0 +1,14 @@
+{
+	"ECGChannelCount": 1,
+	"EEGChannelCount": 127,
+	"EEGReference": "placed on FCz",
+	"EMGChannelCount": 0,
+	"EOGChannelCount": 0,
+	"MiscChannelCount": 0,
+	"PowerLineFrequency": 50,
+	"RecordingDuration": 638.6,
+	"SamplingFrequency": 1000,
+	"SoftwareFilters": "n/a",
+	"TaskName": "LKMOther",
+	"TriggerChannelCount": 0
+}
