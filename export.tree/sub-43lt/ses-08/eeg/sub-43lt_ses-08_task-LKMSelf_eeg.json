@@ -1,0 +1,14 @@
+{
+	"ECGChannelCount": 1,
+	"EEGChannelCount": 127,
+	"EEGReference": "placed on FCz",
+	"EMGChannelCount": 0,
+	"EOGChannelCount": 0,
+	"MiscChannelCount": 0,
+	"PowerLineFrequency": 50,
+	"RecordingDuration": 634.75,
+	"SamplingFrequency": 1000,
+	"SoftwareFilters": "n/a",
+	"TaskName": "LKMSelf",
+	"TriggerChannelCount": 0
+}
